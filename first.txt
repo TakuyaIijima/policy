@@ -1,2 +1,3 @@
 追加のファイル
 Git rm
+Git status
