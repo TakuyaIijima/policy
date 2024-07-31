@@ -1,3 +1,4 @@
 追加のファイル
 Git rm
 Git status
+Git diff
